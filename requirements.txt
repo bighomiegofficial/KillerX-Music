@@ -1,27 +1,4 @@
-aiofiles
-bs4
-aiohttp
-asyncio
-dnspython
-ffmpeg-python
-gitpython
-hachoir
-heroku3
-lyricsgenius
-motor
-pillow
-psutil
-py-tgcalls==0.9.1
-pykeyboard
-pyrogram==1.4.16
-python-dotenv
-pyyaml==5.4
-requests
-spotipy
-speedtest-cli
-tgcrypto
-wget
-youtube-search
-youtube-search-python
-git+https://github.com/Randi356/yt-dlp
-
+SSH Command lets you run commands on your SSH server with a combination of files on your remote and your local repository such that results from running the command will be downloaded to your iPhone.
+First step is to configure the server to use, then tap Help for further instructions.
+SSH Command lets you run commands on your SSH server with a combination of files on your remote and your local repository such that results from running the command will be downloaded to your iPhone.
+First step is to configure the server to use, then tap Help for further instructions.
